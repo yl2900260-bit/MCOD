@@ -2,7 +2,7 @@
 ## Paper
 Paper is avaliable at [arXiv](https://arxiv.org/abs/2509.15753) and [ACM MM 2025](https://dl.acm.org/doi/abs/10.1145/3746027.3758294).
 
-Spectral range；
+Spectral range:
 | Sensor | Start WL (nm) | Stop WL (nm) | CWL (nm) | FWHM (nm) | Colour   |
 | :----- | :-----------: | :----------: | :------: | :-------: | :------- |
 | S1     | 395           | 450          | 422.5    | 55        | Violet   |
